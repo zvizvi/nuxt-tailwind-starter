@@ -1,4 +1,11 @@
-# my-app
+# MyApp
+* [Nuxt](https://nuxtjs.org/)
+* [TailwindCSS](https://tailwindcss.com/)
+* [PostCSS](https://postcss.org/)
+* [PWA](https://pwa.nuxtjs.org/)
+* [Axios](https://axios-http.com/)
+* [ESLint](https://eslint.org/)
+
 
 ## Build Setup
 
