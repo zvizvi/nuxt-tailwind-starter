@@ -4,6 +4,7 @@
 * [PostCSS](https://postcss.org/)
 * [PWA](https://pwa.nuxtjs.org/)
 * [Axios](https://axios-http.com/)
+* [Dotenv](https://github.com/nuxt-community/dotenv-module)
 * [ESLint](https://eslint.org/)
 
 
